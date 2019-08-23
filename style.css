@@ -1,0 +1,40 @@
+body {
+    margin: auto;
+    height: 500px;
+    padding: 20px;
+}
+ 
+#header {
+    width: 700px;
+    color: maroon;
+    font-size: 32px;
+    padding: 10px 10px 10px 0px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid green;
+}
+ 
+.registration, .login {
+     font-family:Arial, Sans-Serif;
+     background-image: url("image3.jpg");
+     background-repeat: no-repeat;
+     background-size:cover;
+     height: 500px;
+     background-position: center;
+}
+.card {
+    padding: 5px;
+}
+.view {
+    display: block;
+    width: 195px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding-top: -15px;
+}
+
+
